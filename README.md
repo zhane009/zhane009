@@ -36,7 +36,7 @@ I am a passionate student majoring in software engineering and a tech enthusiast
 [![My Skills](https://skillicons.dev/icons?i=py,java,spring)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 [![My Skills](https://skillicons.dev/icons?i=cpp,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 
-### Coming in line
+### Currently learning
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 
