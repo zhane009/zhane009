@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Introduction</h2>
+<h2>Hello there</h2>
 
-### Hello there
 I am a passionate student majoring in software engineering and a tech enthusiast. 
 - 🌱 I’m currently learning **HTML, CSS, Javascript and some of its frameworks.**
 <!--- 🔭 I’m currently working on [a weather app with C++]-->
