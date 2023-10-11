@@ -36,4 +36,4 @@ I am a passionate student majoring in software engineering and a tech enthusiast
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhane009&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhane009&langs_count=10)
