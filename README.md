@@ -24,9 +24,9 @@ I am a passionate student majoring in software engineering and a tech enthusiast
 
 <h2>Pinned Projects</h2>
 
-- [Details of laptops CRUD](github.com/zhane009/laptops) - A java spring CRUD project with a sql database
-- [Cinema System](github.com/zhane009/cinema_system) - A console based cinema booking system with C++
-- [My first ever website](github.com/zhane009/webdev_assessment) - A web page that explains the beginners the concepts of the game DOTA 2
+- [Details of laptops CRUD](/laptops) - A java spring CRUD project with a sql database
+- [Cinema System](/cinema_system) - A console based cinema booking system with C++
+- [My first ever website](webdev_assessment) - A web page that explains the beginners the concepts of the game DOTA 2
 
 <h2>Skills</h2>
 
