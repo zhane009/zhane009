@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2>Hello there</h2>
 
 I am a passionate student majoring in software engineering and a tech enthusiast. 
-- 🌱 I’m currently learning **HTML, CSS, Javascript and some of its frameworks.**
+- 🌱 I’m currently learning **Mobile Development, IoW systems and cloud infrastructures**
 <!--- 🔭 I’m currently working on [a weather app with C++]-->
 - ⚡ My other interests are **Chess and Photography**.
 
@@ -24,9 +24,9 @@ I am a passionate student majoring in software engineering and a tech enthusiast
 
 <h2>Pinned Projects</h2>
 
-- [Details of laptops CRUD](https://github.com/zhane009/laptops) - A java spring CRUD project with a sql database
+- [Details of laptops CRUD](https://github.com/zhane009/laptops) - A java spring CRUD REST API project with a sql database
 - [Cinema System](https://github.com/zhane009/cinema_system) - A console based cinema booking system with C++
-- [My first ever website](https://github.com/zhane009/webdev_assessment) - A web page that explains the beginners the concepts of the game DOTA 2
+- [Dynamic Event Booking Webiste](https://github.com/zhane009/Event-Booking-Website) - A web page using ASP.NET that mimics the events booking system
 
 <h2>Skills</h2>
 
@@ -35,10 +35,6 @@ I am a passionate student majoring in software engineering and a tech enthusiast
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 [![My Skills](https://skillicons.dev/icons?i=py,java,spring)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 [![My Skills](https://skillicons.dev/icons?i=cpp,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
-
-### Currently learning
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhane009&langs_count=10)
